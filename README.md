@@ -28,4 +28,4 @@ Sou um Analista de TI e estudante de Sistemas de Informação apaixonado por res
 
 #### 📫 Como me encontrar:
 - **E-mail:** gabriel.zleib@gmail.com
-- **LinkedIn:** [Adicione o link do seu LinkedIn aqui]
+- **LinkedIn:** [https://www.linkedin.com/in/zleibb/]
