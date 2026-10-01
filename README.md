@@ -1,31 +1,34 @@
-### Olá! Eu sou o Gabriel Pereira (Zleib) 👋
+# Olá! Eu sou o Gabriel Pereira (Zleib) 👋
 
-Sou um Analista de TI e estudante de Sistemas de Informação apaixonado por resolver problemas complexos e otimizar processos. Minha trajetória transita entre a gestão robusta de infraestrutura corporativa e o desenvolvimento web, garantindo desde a automação de servidores até o deploy de interfaces.
+Sou estudante de Sistemas de Informação e **Desenvolvedor Full Stack em formação**, com foco no ecossistema **Java + Spring Boot** no back-end e **React/TypeScript** no front-end.
 
-- 🔭 **Atualmente:** Apenas estudando.
-- 🌱 **Estudando:** Cursando o 6º período de Sistemas de Informação na UniNassau.
-- 💻 **Foco:** Automação de Infraestrutura (M365), Redes e Desenvolvimento Front-end.
-- ⚡ **Curiosidade:** Quando não estou gerenciando servidores no Exchange ou "codando" em React, você provavelmente vai me encontrar jogando CS2 competitivo ou colocando os episódios de One Piece em dia.
+Para complementar o desenvolvimento de aplicações escaláveis, venho aprofundando meus conhecimentos em **Cloud Computing na AWS**. Atualmente, participo do **Projeto Start (Rede Cidadã / AWS re/Start)**, capacitação intensiva voltada para fundamentos de nuvem, segurança, redes e arquitetura, me preparando ativamente para a certificação **AWS Certified Cloud Practitioner (CLF-C02)**. Meu objetivo a curto/médio prazo é consolidar a base Full Stack Java e, em seguida, migrar de cabeça para a engenharia e arquitetura em nuvem.
 
 ---
 
-#### 🛠️ Tecnologias e Ferramentas
-
-**Desenvolvimento & Automação**
-- React | Node.js | HTML | CSS
-- PowerShell | VBA
-
-**Infraestrutura & Redes**
-- Microsoft 365 | Exchange Online | Active Directory
-- Roteamento & Switching | Ubiquiti Uni-Fi
-- Configuração de DNS & Domínios
-
-**Hardware & Suporte**
-- Manutenção avançada e Otimização de Performance (Undervolting, BIOS)
-- Telecomunicações Corporativas
+### 🔭 O que ando fazendo:
+- 🎓 **Graduação:** Cursando Sistemas de Informação na UniNassau.
+- ☁️ **Capacitação Cloud:** Formação no **Projeto Start / AWS**, em preparação para a certificação **AWS Certified Cloud Practitioner**.
+- 💻 **Foco em Desenvolvimento:** Construção de aplicações e RESTful APIs robustas com **Java, Spring Boot e React**.
+- 🚀 **Objetivo atual:** Oportunidades de **estágio em Desenvolvimento de Software** para aplicar boas práticas de código e visão moderna de nuvem.
+- ⚡ **Curiosidades:** Quando não estou codando ou estudando serviços da AWS, você provavelmente vai me encontrar jogando CS2 competitivo ou maratonando One Piece.
 
 ---
 
-#### 📫 Como me encontrar:
-- **E-mail:** gabriel.zleib@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/zleibb/]
+### 🛠️ Tecnologias & Ferramentas
+
+**Back-end & APIs**
+`Java` `Spring Boot` `Node.js` `Python` `RESTful APIs` `PostgreSQL` `MySQL`
+
+**Front-end & UI**
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+
+**Cloud, DevOps & Infra**
+`AWS (EC2, S3, IAM, VPC)` `Docker` `Linux` `Git` `GitHub` `CI/CD (Fundamentos)`
+
+---
+
+### 📫 Onde me encontrar:
+
+- **LinkedIn:** [linkedin.com/in/zleibb](https://www.linkedin.com/in/zleibb/)
+- **E-mail:** [gabriel.zleib@gmail.com](mailto:gabriel.zleib@gmail.com)
